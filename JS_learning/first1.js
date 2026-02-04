@@ -48,6 +48,7 @@ console.log(`Current Time : ${hour} ${prepand} :${minute} :${second}.`);
 
 
 
+notes to understand problem;
 
 // Today is : Thursday.
 // Current Time : 7 PM : 25 : 10
