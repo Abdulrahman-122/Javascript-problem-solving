@@ -16,3 +16,4 @@ if (day<10){
     day="0"+day;
 }
 console.log(`Current date:  ${month}-${day}-${year}.`)
+
