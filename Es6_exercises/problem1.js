@@ -25,8 +25,8 @@ console.log(compare_property(object1,object2));
 // you need to understand how process.argv works;[
 //  '/usr/bin/node',        // index 0
 //  '/path/problem1.js',    // index 1
-//  '{"name":"Ahmed"}',     // index 2 ✅
-//  '{"name":"Mohae"}'      // index 3 ✅
+//  '{"name":"Ahmed"}',     // index 2
+//  '{"name":"Mohae"}'      // index 3
 //]
 // make sure to wrap the objects you sent throw the terminal in order to escape from removing the douple quotes that shell do if no wrap around it
 //also make sure that everything inside the {} of the objects are in douple quotes in order to  check  them else JSON will return error.
